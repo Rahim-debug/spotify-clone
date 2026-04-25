@@ -1,0 +1,9 @@
+# Ignore the music folder and all audio files
+assets/music/
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+# Ignore cache files (good practice so your repo stays clean)
+assets/cache/
