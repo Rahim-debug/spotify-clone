@@ -55,5 +55,6 @@ Notes about how to deploy this on your localhost
 
 ## Authors
 
-* **Kamal Aly Kamal** - - [KamalAlyKamal](https://github.com/KamalAlyKamal)
-* **Ahmed Osman Mohamed** - - [AhmedOsmanMohamed](https://github.com/aosman96)
+* **Rahim Khan**
+* **Naik Muhammad**
+* **Abdul Rafay**
